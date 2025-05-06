@@ -86,9 +86,3 @@ chmod 600 ~/.my.cnf
 - Os caminhos e nomes do banco de dados podem ser ajustados conforme a necessidade do seu ambiente.
 - Os logs são gravados no arquivo `backup.log` dentro do diretório de backups.
 - Recomenda-se agendar o `backup.sh` com um cron job para execução automática diária/semanal.
-
----
-
-## 📄 Licença
-
-Este projeto é de uso livre para fins educacionais. Adapte conforme necessário para uso em ambientes de produção, sempre com as devidas considerações de segurança.
