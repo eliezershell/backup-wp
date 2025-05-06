@@ -1,6 +1,4 @@
-# Vamos criar o conteúdo do README.md com base nas informações fornecidas pelo usuário e salvar como arquivo .md
-
-readme_content = """# 🗂️ WordPress Backup & Restore Automation
+# 🗂️ WordPress Backup & Restore Automation
 
 Este repositório contém scripts de automação para **backup** e **restauração** de um servidor WordPress, incluindo arquivos do site e banco de dados MySQL.
 
